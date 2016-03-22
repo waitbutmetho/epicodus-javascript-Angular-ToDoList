@@ -19,7 +19,7 @@ _The project was put together using ._
 1. [Node.js](https://nodejs.org/en/) w/ [npm](https://www.npmjs.com/)
 2. [Bower](http://bower.io/)
 
-#### Installation
+#### Installation 
 
 * After cloning the repo, simply run
 

@@ -1,0 +1,11 @@
+<select (change)="onChange($event.target.value)">
+  <option value="all">Show All</option>
+  <option value="done">Show Done</option>
+  <option value="notDone" selected>Show Not Done</option>
+</select>
+<new-task (onSubmitNewTask)="createTask($event)"></new-task>
+<task-display *ngFor="#currentTask of taskList | done:filterDone" (click)="taskClicked(currentTask)"
+[class.selected]="currentTask === selectedTask"
+[task]="currentTask">
+</task-display>
+<edit-task-details *ngIf="selectedTask" [task]="selectedTask"></edit-task-details>
