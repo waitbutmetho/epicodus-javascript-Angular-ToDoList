@@ -2,7 +2,7 @@
 
 #### _A simple template, 3.__.2016_
 
-### By _** Nicholas Jensen-Hay and **_
+### By _** Nicholas Jensen-Hay and  Joshua Gustafson**_
 
 ## Description
 
@@ -47,4 +47,4 @@ _If you have any questions, concerns, or feedback, please contact the authors th
 
 MIT License.
 
-Copyright (c) 2016 **_Nicholas Jensen-Hay_**
+Copyright (c) 2016 **_Nicholas Jensen-Hay_and_Joshua Gustafson**
